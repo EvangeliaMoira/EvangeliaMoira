@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Evangelia Moira 👋
 
-<!--
-**EvangeliaMoira/EvangeliaMoira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a recent MEng graduate in Informatics and Computer Engineering from the University of West Attica, Greece.
 
-Here are some ideas to get you started:
+🌱 I’m currently transitioning from Front-end to Full Stack Development while also learning how to apply AI technologies in my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐Socials:
+- <a href="https://www.linkedin.com/in/evangelia-moira-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
+
+- <a href="mailto:euamoira@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
+</a>
