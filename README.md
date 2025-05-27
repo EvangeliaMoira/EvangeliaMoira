@@ -13,3 +13,6 @@
 - <a href="mailto:euamoira@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
 </a>
+
+##💻 Tech Stack:
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language Badge"/>
