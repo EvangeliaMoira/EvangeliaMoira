@@ -1,9 +1,9 @@
 
 ## Hey, I'm Evangelia Moira 👋
 
-🎓 I'm a recent MEng graduate in Informatics and Computer Engineering from the University of West Attica, Greece.
+🎓 I'm an MEng graduate in Informatics and Computer Engineering from the University of West Attica, Greece.
 
-🌱 I’m currently transitioning from Front-end to Full Stack Development while also learning how to apply AI technologies in my projects.
+🌱 I’m currently transitioning from Front-end to full-stack development while also learning how to apply AI technologies in my projects.
 
 
 ## 🌐Socials:
