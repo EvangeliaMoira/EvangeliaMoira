@@ -5,6 +5,8 @@
 
 🌱 I’m currently transitioning from Front-end to full-stack development while also learning how to apply AI technologies in my projects.
 
+🎧 I’m passionate about writing clear, efficient code — and I love listening to music while I work.
+
 
 ## 🌐Socials:
 - <a href="https://www.linkedin.com/in/evangelia-moira-/" target="_blank">
